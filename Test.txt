@@ -1,2 +1,8 @@
+#include<iostreme>
 
-ニャー（のワの）
+int main(){
+
+	printf("helloWorld");
+	
+	return 0;
+}
